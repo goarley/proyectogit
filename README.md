@@ -1,2 +1,2 @@
 # proyectogit
-Orimer Proyecto en Git
+Primer Proyecto en Git
